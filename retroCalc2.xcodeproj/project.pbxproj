@@ -13,6 +13,7 @@
 		13CDCA611CE817C00046C28F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13CDCA601CE817C00046C28F /* Assets.xcassets */; };
 		13CDCA641CE817C00046C28F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13CDCA621CE817C00046C28F /* LaunchScreen.storyboard */; };
 		13CDCA6C1CE934440046C28F /* digital-7.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 13CDCA6B1CE934440046C28F /* digital-7.ttf */; };
+		13CDCA741CE960100046C28F /* buttonPush1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 13CDCA731CE960100046C28F /* buttonPush1.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		13CDCA631CE817C00046C28F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		13CDCA651CE817C00046C28F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		13CDCA6B1CE934440046C28F /* digital-7.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "digital-7.ttf"; sourceTree = "<group>"; };
+		13CDCA731CE960100046C28F /* buttonPush1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = buttonPush1.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				13CDCA6B1CE934440046C28F /* digital-7.ttf */,
+				13CDCA731CE960100046C28F /* buttonPush1.mp3 */,
 				13CDCA591CE817C00046C28F /* AppDelegate.swift */,
 				13CDCA5B1CE817C00046C28F /* ViewController.swift */,
 				13CDCA5D1CE817C00046C28F /* Main.storyboard */,
@@ -128,6 +131,7 @@
 				13CDCA641CE817C00046C28F /* LaunchScreen.storyboard in Resources */,
 				13CDCA611CE817C00046C28F /* Assets.xcassets in Resources */,
 				13CDCA5F1CE817C00046C28F /* Main.storyboard in Resources */,
+				13CDCA741CE960100046C28F /* buttonPush1.mp3 in Resources */,
 				13CDCA6C1CE934440046C28F /* digital-7.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
